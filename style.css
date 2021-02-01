@@ -11,8 +11,17 @@
     		padding-top: : 0;
     		padding-left: 20%;
     	}
-    	a: link{
+    	a:link{
   			color: #000000;
+  			text-decoration: none;
+		}
+		a:visited{
+  			color: #C80000;
+  			text-decoration: none;
+		}
+		a:hover{
+  			color: #000000;
+  			text-decoration: none;
 		}
     	#clogo{
     		position: absolute;
